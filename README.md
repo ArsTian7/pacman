@@ -1,10 +1,14 @@
 # 吃豆人 · Pac-Man
 
-用原生 HTML / CSS / JavaScript 写的单文件吃豆人小游戏，零依赖、零构建，打开即玩。
+## 🎮 在线直接玩（无需下载）
 
-## 在线游玩
+**https://arstian7.github.io/pacman/**
 
-https://ar7ian.github.io/pacman/
+手机、平板、电脑浏览器都可以直接打开玩，手机支持滑动屏幕控制方向。
+
+---
+
+用原生 HTML / CSS / JavaScript 写的单文件吃豆人小游戏，零依赖、零构建。
 
 ## 本地游玩
 
